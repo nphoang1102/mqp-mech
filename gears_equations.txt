@@ -1,0 +1,12 @@
+﻿"od"= 29.75'outside diameter
+"n"= 20'number of teeth
+"m"= "od" / ( "n" + 2 )'module
+"p"= "m" * pi'pitch
+"d"= "m" * "n"'primitive diameter
+"da"= "d" + 2 * "m"'head diamater
+"df"= "d" - 2 * "m"'foot diameter
+"D1@Sketch1"="da"
+"D1@Sketch2"="da"
+"D2@Sketch2"="d"
+"D4@Sketch2"="p"
+"D1@CirPattern1"="n"
