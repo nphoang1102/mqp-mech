@@ -1,0 +1,20 @@
+﻿Screws:
+M2 x 35mm
+M3 x 6mm
+M3 x 22mm
+M3 x 35mm
+M4 x 18mm
+M4 x 20mm
+M4 x 25mm
+M4 x 40mm
+M6 x 20mm
+
+Nuts:
+M3
+M4
+M6
+
+Shaft:
+30mm x 2mm round shaft: 20
+
+Nozzle: 0.25/ 0.3/ 0.35/ 0.4/ 0.5/ 0.8 
