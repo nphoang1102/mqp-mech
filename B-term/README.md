@@ -1,9 +1,9 @@
 # MQP Yale's Open Hand Iteration 1 & 2
 
-###### ReflexOne Finger
+### ReflexOne Finger
 The file in this folder is assembly of finger model of Reflex One (source from *_RightHand Robotics_*). 
 
-###### Prototype 1
+### Prototype 1
 The files in this folder are for iteration 1 model: 
   - Change in close distance between two front fingers.
   - Introduce new gear type - two stage gear, to reduce number of gears thus reduce total base size.
@@ -24,11 +24,11 @@ The files are:
 The purpose of iteration 1:
   - Test the new design of two front finger gears with controlled glove
   
-###### Prototype 1 Fixes (Not Prototype 2 Yet)
+### Prototype 1 Fixes (Not Prototype 2 Yet)
 The files in this folder are fixes for iteration 1 model to make it performs better and smoother.
 The files are the same as in _Prototype 1_ folder with adjusted changes in each file.
 
-###### Prototype 2
+### Prototype 2
 The files in this folder are for iteration 2 model:
   - Change in distance of two front fingers to avoid interference of two finger knuckles.
   - Change in base shape for aesthetic purpose.
